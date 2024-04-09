@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Links
@@ -42,4 +40,4 @@ I will continue to do more challenges on Frontend Mentor, I like this style of l
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@inappdesign](https://www.frontendmentor.io/profile/inappdesign)
