@@ -20,8 +20,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-rk11cIXumc)
 - Live Site URL: [Live version of my solution](https://qr-code-component-frontend-mentor-olive.vercel.app/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
