@@ -69,9 +69,17 @@ body {
 	text-align: center;
 	padding: 0 2.5rem;
 	margin-top: -3.3rem;
+	position: absolute;
+	bottom: 0;
 }
 
 a:link,
 a:visited {
 	text-decoration: none;
+}
+
+@media (max-height: 34.5rem) {
+	.attribution {
+		display: none;
+	}
 }
